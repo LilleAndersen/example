@@ -1,1 +1,3 @@
 # example
+
+THIS IS A TEST PROJECT FOR A GUIDE
