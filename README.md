@@ -1,5 +1,5 @@
 # example
 
-THIS IS A TEST PROJECT FOR A GUIDE
+DETTE ER ET TEST PROSJEKT FOR EN GUIDE
 
-[Here](https://little.yessness.com/example/) is the example repo.
+[Her](https://little.yessness.com/example/) er et eksempel repo.
